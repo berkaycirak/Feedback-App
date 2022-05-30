@@ -1,11 +1,15 @@
 import Header from './components/Header';
 
+import FeedbackList from './components/FeedbackList';
+import FeedbackData from './data/FeedbackData';
+
 function App() {
+  const feedback = FeedbackData;
   return (
     <>
-      <Header text='Hello World' />
+      <Header />
       <div className='container'>
-        <h1>My App</h1>
+        <FeedbackList feedback={feedback} />
       </div>
     </>
   );
