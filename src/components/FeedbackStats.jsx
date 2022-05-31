@@ -7,6 +7,7 @@ function FeedbackStats({ feedback }) {
       return acc + cur.rating;
     }, 0) / feedback.length;
 
+  // This helps us to arrange the digit count.
   average = average.toFixed(1);
 
   return (
