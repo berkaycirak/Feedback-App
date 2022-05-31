@@ -9,7 +9,7 @@ function About() {
         <p>Version: 1.0.0</p>
 
         <p>
-          <a href='/'>Back To Home</a>
+          <a href='/'>Back To Home, hello</a>
         </p>
       </div>
     </Card>
