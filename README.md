@@ -1,7 +1,7 @@
-<div align=center>
-  <h1>DEMO</h1>
-
-![Feedback-App-Demo](https://user-images.githubusercontent.com/81809211/171512139-b3bedfd1-11e7-4d77-9c57-4e2c5c79b70d.gif)
+<div align="center">
+  <h1> DEMO </h1>
+  
+  ![Feedback-App-Demo](https://user-images.githubusercontent.com/81809211/171512139-b3bedfd1-11e7-4d77-9c57-4e2c5c79b70d.gif)
 </div>
 
 
@@ -10,4 +10,5 @@
 
 
 
-This is a basic react application to practice myself. You can test yourself by cloning the project. Since there is also a Json-Server, you should type "npm run dev" to access application on your local after cloning. 
+<p > This is a basic react application to practice myself. You can test yourself by cloning the project. Since there is also a Json-Server, you should type "npm run dev" to access application on your local after cloning. 
+ </p>
