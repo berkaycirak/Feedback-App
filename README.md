@@ -19,5 +19,5 @@
 &#8226; useState<br>
 &#8226; Router<br>
 &#8226; Context-Api <br>
-&#8226;	JSON-Server (GET,POST and DELETE Requests)
+&#8226;	JSON-Server (GET,POST and DELETE Requests) 
 
