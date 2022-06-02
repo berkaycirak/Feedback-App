@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> DEMO </h1>
+  <h1> About the Project </h1>
   <p>⭐Thanks to that app, you can give a feedback. Also you can delete that feedback from the application. </p>
   
   ![Feedback-App-Demo](https://user-images.githubusercontent.com/81809211/171512139-b3bedfd1-11e7-4d77-9c57-4e2c5c79b70d.gif) 
